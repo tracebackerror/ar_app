@@ -73,6 +73,7 @@
      <Compile Include="Assets\Common\Scripts\TapHandler.cs" />
      <Compile Include="Assets\Common\Scripts\TrackableSettings.cs" />
      <Compile Include="Assets\script\bouncing.cs" />
+     <Compile Include="Assets\script\DiamondGuyButton.cs" />
      <Compile Include="Assets\script\spinning.cs" />
      <Compile Include="Assets\script\videoplayer.cs" />
      <Compile Include="Assets\Stylized Astronaut\Character\Player.cs" />

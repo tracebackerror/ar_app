@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/tracebackerror/Documents/ar_app/AndroidAppAR/augmented_reality_app.apk
+C:/Users/tracebackerror/Documents/ar_app/AndroidAppAR/augmented_reality_app_fin.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -324,3 +324,4 @@ c1087bf328bbb39eba5a09f26c3b6368 Vuforia.UnityExtensions.dll:Vuforia.MultiTarget
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+36b7b4c847910665fd8c07e6b272249d Assembly-CSharp.dll:.DiamondGuyButton
